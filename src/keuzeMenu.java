@@ -1,4 +1,5 @@
 public class keuzeMenu {
-    //Test Jeff
-    // test antoine
+    public static void main(String[] args) {
+        System.out.println("test");
+    }
 }
